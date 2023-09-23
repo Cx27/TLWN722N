@@ -3,8 +3,7 @@ Building, and installing
 $make
 $make install
 
-Uninstall:
-make uninstall
+Uninstall:make uninstall
 
 Driver
 adm8211
