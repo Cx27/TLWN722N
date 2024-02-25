@@ -9,50 +9,50 @@ sudo make
 make install
 make uninstall
 ```
+
+### Features
 <br/>
-Driver
+-adm8211
 <br/>
-adm8211
+-ath5k
 <br/>
-ath5k
+-ath9h
 <br/>
-ath9h
+-ar9170
 <br/>
-ar9170
+-b43
 <br/>
-b43
+-b43legacy
 <br/>
-b43legacy
+-iwl3945
 <br/>
-iwl3945
+-iwlagn
 <br/>
-iwlagn
+-ipw2100
 <br/>
-ipw2100
+-ipw2200
 <br/>
-ipw2200
+-libertas_cs (Libertas)
 <br/>
-libertas_cs (Libertas)
+-ub8xxx (Libertas)
 <br/>
-ub8xxx (Libertas)
+-p54pci
 <br/>
-p54pci
+-p54usb
 <br/>
-p54usb
+-rt2400pci (rt2x00)
 <br/>
-rt2400pci (rt2x00)
+-rt2500pci (rt2x00)
 <br/>
-rt2500pci (rt2x00)
+-rt2500usb (rt2x00)
 <br/>
-rt2500usb (rt2x00)
+-rt61pci (rt2x00)
+-<br/>
+-rt73usb  (rt2x00)
 <br/>
-rt61pci (rt2x00)
+-rtl8180	(Realtek)
 <br/>
-rt73usb  (rt2x00)
+-rtl8187	(Realtek)
 <br/>
-rtl8180	(Realtek)
-<br/>
-rtl8187	(Realtek)
-<br/>
-zd1211rw
+-zd1211rw
 <br/>
