@@ -13,7 +13,6 @@ make uninstall
 ### Features
 <br/>
 -adm8211
-<br/>
 -ath5k
 <br/>
 -ath9h
