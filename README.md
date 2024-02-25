@@ -1,10 +1,15 @@
-Building, and installing
-------------------------
-$make
-$make install
 
-Uninstall:make uninstall
+## Installation
 
+
+Install & uninstall Command.
+
+```
+sudo make
+make install
+make uninstall
+```
+<br/>
 Driver
 adm8211
 ath5k
