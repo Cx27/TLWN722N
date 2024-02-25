@@ -10,7 +10,7 @@ make install
 make uninstall
 ```
 
-### Features
+### Driver
 
 -adm8211
 <br/>
@@ -47,7 +47,7 @@ make uninstall
 -rt2500usb (rt2x00)
 <br/>
 -rt61pci (rt2x00)
--<br/>
+<br/>
 -rt73usb  (rt2x00)
 <br/>
 -rtl8180	(Realtek)
